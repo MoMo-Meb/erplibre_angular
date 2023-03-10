@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   <div class="navbar is-dark">
     <div class="navbar-brand">
         <a class="navbar-item">
-        TechnoLibre Logo goes here
+        <img src="assets/logo.png">
         </a>
     </div>
   </div>

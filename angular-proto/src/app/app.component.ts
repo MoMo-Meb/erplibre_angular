@@ -5,11 +5,12 @@ import { Component } from '@angular/core';
   template: `
 <app-header></app-header>
 
-
+<app-home></app-home>
 <app-footer></app-footer>
   `,
   styles: []
 })
 export class AppComponent {
   title = 'angular-proto';
+
 }
